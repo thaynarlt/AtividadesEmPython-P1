@@ -10,3 +10,4 @@ if dist >= 200:
 else:
     print('Sua viagem percorre menos de 200km')
     print('O valor total da viagem é R${}'.format(duzentoskm))
+    

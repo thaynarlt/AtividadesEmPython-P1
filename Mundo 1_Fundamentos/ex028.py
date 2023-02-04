@@ -11,3 +11,5 @@ if r == valor:
     print('Acertou!')
 else:
     print('Perdeu!')
+
+    

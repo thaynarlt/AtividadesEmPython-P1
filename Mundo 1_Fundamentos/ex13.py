@@ -1,5 +1,6 @@
 # Faça um algoritmo que leia o salário de um funcionário e
-#mostre seu novo salário, com 15% de aumento
+#mostre seu novo salário, com 15% de aumento (ex013)
+
 salário = float(input('Digite o valor do salário'))
 aumento = 15/100 * salário
 novo = salário + aumento

@@ -5,3 +5,4 @@ if resto == 0:
     print('Esté número é par!')
 else:
     print('Este número é ímpar!')
+    

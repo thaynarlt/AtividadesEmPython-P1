@@ -17,3 +17,4 @@ if (a < b + c and b < a + c and c < b + c):
             print('Os lados formam um Triângulo Escaleno.')
 else:
     print('Os lados não formam um triângulo!')
+    

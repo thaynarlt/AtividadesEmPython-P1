@@ -9,3 +9,4 @@ if velo >= max:
     print('O valor da multa é {}'.format(multa))
 else:
     print('Você não ultrappasou 80km, continue assim!')
+    

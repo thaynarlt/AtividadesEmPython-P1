@@ -10,3 +10,4 @@ if salario >= 1250:
     print('Seu salário é maior que R$1.250,00. Seu aumento é de R${}. Seu novo saldo é R${}'.format(maior, total1))
 else:
     print('Seu salário é menor que R$1.250,00. Seu aumento é de R${}. Seu novo saldo é R${}'.format(menor, total2))
+    

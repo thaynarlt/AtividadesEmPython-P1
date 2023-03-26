@@ -1,2 +1,2 @@
-# CursoEmVideo-Python
-Todos os programas e desafios desenvolvidos no CursoEmVideo na linguagem Python.
+# Sabedoria em Python 
+Todos os programas e desafios desenvolvidos na linguagem Python durante o meu aprendizado.

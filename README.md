@@ -1,2 +1,4 @@
 # Sabedoria em Python 
-Todos os programas e desafios desenvolvidos na linguagem Python durante o meu aprendizado.
+Localizados na pasta: Atividades APE
+Todos os programas e desafios desenvolvidos na linguagem Python durante o meu primeiro perído em Sistemas Para Internet.
+
